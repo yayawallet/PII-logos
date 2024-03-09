@@ -17,7 +17,7 @@
     },
     {
         "institutionID": "231407",
-        "logoUrl": "./wegagen.png"
+        "logoUrl": "./logos/wegagen.png"
     },
     {
         "institutionID": "231408",
@@ -25,7 +25,7 @@
     },
     {
         "institutionID": "231409",
-        "logoUrl": "./nib.png"
+        "logoUrl": "./logos/nib.png"
     },
     {
         "institutionID": "231410",
@@ -37,11 +37,11 @@
     },
     {
         "institutionID": "231415",
-        "logoUrl": "./birhan.png"
+        "logoUrl": "./logos/birhan.png"
     },
     {
         "institutionID": "231416",
-        "logoUrl": "./abay.png"
+        "logoUrl": "./logos/abay.png"
     },
     {
         "institutionID": "231421",
@@ -53,7 +53,7 @@
     },
     {
         "institutionID": "231438",
-        "logoUrl": "./kaafi.png"
+        "logoUrl": "./logos/kaafi.png"
     },
     {
         "institutionID": "231439",
@@ -69,11 +69,11 @@
     },
     {
         "institutionID": "231443",
-        "logoUrl": "./anbesa.png"
+        "logoUrl": "./logos/anbesa.png"
     },
     {
         "institutionID": "231417",
-        "logoUrl": "./addis.png"
+        "logoUrl": "./logos/addis.png"
     },
     {
         "institutionID": "231442",
@@ -81,7 +81,7 @@
     },
     {
         "institutionID": "231456",
-        "logoUrl": "./tsedey.png"
+        "logoUrl": "./logos/tsedey.png"
     },
     {
         "institutionID": "231457",
@@ -93,15 +93,15 @@
     },
     {
         "institutionID": "231414",
-        "logoUrl": "./buna.png"
+        "logoUrl": "./logos/buna.png"
     },
     {
         "institutionID": "231432",
-        "logoUrl": "./tsehay.png"
+        "logoUrl": "./logos/tsehay.png"
     },
     {
         "institutionID": "231431",
-        "logoUrl": "./ahadu.png"
+        "logoUrl": "./logos/ahadu.png"
     },
     {
         "institutionID": "231418",
@@ -109,7 +109,7 @@
     },
     {
         "institutionID": "231419",
-        "logoUrl": "./enat.png"
+        "logoUrl": "./logos/enat.png"
     },
     {
         "institutionID": "231444",
